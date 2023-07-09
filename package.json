@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"src\"",
+    "dev": "lite-server",
+    "server": "http-server"
+  },
+  "author": "shb21",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "lite-server": "^2.6.1"
+  }
+}
